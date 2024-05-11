@@ -3,7 +3,7 @@
 
 ### Técnico em Desenvolvimento de Sistemas e Estudante de Engenharia de Software.
 
-- 🌱 Atualmente estou me aprofundando em **Python, C++, IA e Automação. Tenho o objetivo de trabalhar com Data Science.****
+- 🌱 Atualmente estou me aprofundando em **Python, C++, IA e Automação. Tenho o objetivo de trabalhar com Data Science.**
 
 ### Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiquerios/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:kaiqverios@gmail.com)
