@@ -23,13 +23,22 @@ Atualmente estou me aprofundando em **Python, C++ e Node.js.** Tenho o objetivo 
 - Automação e Inteligência Artificial  
 - Metodologias Ágeis 
 
-### Contatos e Redes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiquerios/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5571999419853)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaiqueriosz/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kaiqverios@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@kaiqueriosz/)
+### Minhas redes:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/kaiquerios/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/kaiqueriosz/)
+[![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=FF00F6&color:FFF)](mailto:kaiqverios@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=FF00F6&color:FFF)](https://discord.com/channels/@kaiqueriosz/)
 
 ### Linguagens e Ferramentas:
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=30A3DC) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)       ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)  
+![C++](https://img.shields.io/badge/-C%2B%2B-000?style=for-the-badge&logo=C%2B%2B&logoColor=FF00F6&color:FFF)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=FF00F6&color:FFF)
+![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php&logoColor=FF00F6&color:FFF)
+![NodeJS](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=FF00F6&color:FFF)
+![MySQL](https://img.shields.io/badge/-MySql-000?style=for-the-badge&logo=mysql&logoColor=FF00F6&color:FFF)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FF00F6&color:FFF)
+![Git](https://img.shields.io/badge/-GIT-000?style=for-the-badge&logo=git&logoColor=FF00F6&color:FFF)
 
-### Contribuições 
+### GitHub Status 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquerios&theme=midnight-purple&show_icons=true) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kaiquerios&theme=midnight-purple&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquerios&theme=midnight-purple&show_icons=true) 
