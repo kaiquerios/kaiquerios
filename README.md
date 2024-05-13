@@ -11,7 +11,7 @@ Atualmente estou me aprofundando em **Python, C++ e Node.js.** Tenho o objetivo 
 - Proatividade
 - Comunicação efetiva  
 - Solução de problemas  
--  Capacidade analítica
+- Capacidade analítica
 - Senso de organização
 - Trabalho em equipe  
 
@@ -21,7 +21,7 @@ Atualmente estou me aprofundando em **Python, C++ e Node.js.** Tenho o objetivo 
 - Bancos de Dados (SQL)  
 - Frameworks e Bibliotecas  
 - Automação e Inteligência Artificial  
-- Metodologias ágeis 
+- Metodologias Ágeis 
 
 ### Contatos e Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiquerios/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5571999419853)  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaiqueriosz/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kaiqverios@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@kaiqueriosz/)
