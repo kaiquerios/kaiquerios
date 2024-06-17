@@ -17,7 +17,7 @@ Atualmente estou me aprofundando em **Python.** Tenho o objetivo de trabalhar co
 
 ### Hardskills:  
   
-- C++, Python, PHP e estudando Node.js  
+- C++, Python e PHP  
 - Bancos de Dados (SQL)  
 - Frameworks e Bibliotecas  
 - Automação e Inteligência Artificial  
