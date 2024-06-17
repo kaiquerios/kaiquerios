@@ -2,7 +2,7 @@
 
 ### Técnico em Desenvolvimento de Sistemas e Estudante de Engenharia de Software 🤓
 
-Atualmente estou me aprofundando em **Python, C++ e Node.js.** Tenho o objetivo de trabalhar com **IA e Automação.**
+Atualmente estou me aprofundando em **Python.** Tenho o objetivo de trabalhar com **IA e Automação.**
 
 ### Softskills:  
   
