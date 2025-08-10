@@ -1,38 +1,12 @@
 # 💻 Kaique Rios Novais  
 
-
-
-**Técnico em Desenvolvimento de Sistemas** | **Estudante de Engenharia de Software** 🤓  
-
-
+ 
 
 Olá! 👋 Sou **Kaique Rios Novais**, Técnico em Desenvolvimento de Sistemas e estudante de Engenharia de Software.  
 
 Sou apaixonado por **tecnologia, dados e inovação**, aplicando minhas habilidades para transformar informações em soluções inteligentes.  
 
 Meu objetivo é evoluir como **cientista e pesquisador**, explorando **inteligência artificial, automação e ciência de dados** para gerar impacto real.  
-
-
-
----
-
-
-
-## 🚀 Habilidades & Ferramentas  
-
-
-
-- **Análise e Visualização de Dados:** Power BI, Excel  
-
-- **Bancos de Dados:** SQL  
-
-- **Programação:** Python, PHP  
-
-- **Versionamento de Código:** GitHub  
-
-- **Organização e Produtividade:** Notion, Trello  
-
-- **Idiomas:** Inglês técnico  
 
 
 
@@ -88,27 +62,6 @@ Meu objetivo é evoluir como **cientista e pesquisador**, explorando **inteligê
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquerios&layout=compact&theme=midnight-purple&langs_count=8)  
 
-
-
----
-
-
-
-## 🖥️ Contribuições em 3D  
-
-
-
-> **Como funciona:** Essa animação é gerada automaticamente pelo workflow [GitHub Profile 3D Contrib](https://github.com/yoshi389111/github-profile-3d-contrib).  
-
-> Siga os passos no repositório para criar a sua.
-
-
-
-Exemplo de uso com tema **monokai**:
-
-
-
-![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
 
