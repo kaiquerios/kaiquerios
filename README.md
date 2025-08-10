@@ -2,10 +2,9 @@
 
 **Técnico em Desenvolvimento de Sistemas** | **Estudante de Engenharia de Software** 🤓  
 
-Desde muito novo, sou uma pessoa **organizada, analítica e sistemática**, com facilidade para lidar com números e raciocínio lógico.  
-Com o tempo, desenvolvi grande interesse pelas áreas de **tecnologia** e **dados**, onde aplico essas habilidades para **organizar, estruturar e transformar informações** em soluções práticas.  
-
-Meu propósito profissional é seguir carreira como **cientista/pesquisador**, atuando em projetos que envolvam **ciência, inovação, inteligência artificial e automação**.  
+Olá! 👋 Sou **Kaique Rios Novais**, Técnico em Desenvolvimento de Sistemas e estudante de Engenharia de Software.  
+Sou apaixonado por **tecnologia, dados e inovação**, aplicando minhas habilidades para transformar informações em soluções inteligentes.  
+Meu objetivo é evoluir como **cientista e pesquisador**, explorando **inteligência artificial, automação e ciência de dados** para gerar impacto real.  
 
 ---
 
@@ -13,7 +12,7 @@ Meu propósito profissional é seguir carreira como **cientista/pesquisador**, a
 
 - **Análise e Visualização de Dados:** Power BI, Excel  
 - **Bancos de Dados:** SQL  
-- **Programação:** Python, PHP, C++  
+- **Programação:** Python, PHP  
 - **Versionamento de Código:** GitHub  
 - **Organização e Produtividade:** Notion, Trello  
 - **Idiomas:** Inglês técnico  
@@ -31,7 +30,6 @@ Meu propósito profissional é seguir carreira como **cientista/pesquisador**, a
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=FF00F6)
 ![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php&logoColor=FF00F6)
-![C++](https://img.shields.io/badge/-C%2B%2B-000?style=for-the-badge&logo=C%2B%2B&logoColor=FF00F6)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=mysql&logoColor=FF00F6)
 ![Power BI](https://img.shields.io/badge/-PowerBI-000?style=for-the-badge&logo=powerbi&logoColor=FF00F6)
 ![Excel](https://img.shields.io/badge/-Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=FF00F6)
@@ -44,7 +42,18 @@ Meu propósito profissional é seguir carreira como **cientista/pesquisador**, a
 ## 📊 GitHub Status  
 
 ![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquerios&theme=midnight-purple&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquerios&layout=compact&theme=midnight-purple&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquerios&layout=compact&theme=midnight-purple&langs_count=8)  
+
+---
+
+## 🖥️ Contribuições em 3D  
+
+> **Como funciona:** Essa animação é gerada automaticamente pelo workflow [GitHub Profile 3D Contrib](https://github.com/yoshi389111/github-profile-3d-contrib).  
+> Siga os passos no repositório para criar a sua.
+
+Exemplo de uso com tema **monokai**:
+
+![Contribuições 3D](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
