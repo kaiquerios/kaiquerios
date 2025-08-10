@@ -34,5 +34,3 @@ Meu objetivo é evoluir como **cientista e/ou pesquisador**, explorando **ciênc
 ![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquerios&theme=midnight-purple&show_icons=true)
 
 ---
-
-✨ *"Transformando ideias em soluções e códigos em impacto real."*
