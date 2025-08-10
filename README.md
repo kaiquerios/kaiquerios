@@ -1,10 +1,10 @@
-# 💻 Kaique Rios Novais
+# 💻 Kaique Rios
 
-Olá! 👋 Sou **Kaique Rios Novais**, Técnico em Desenvolvimento de Sistemas e estudante de Engenharia de Software.
+Olá! 👋 Me chamo **Kaique**, sou Técnico em Desenvolvimento de Sistemas e estudante de Engenharia de Software.
 
-Sou apaixonado por **tecnologia, dados e inovação**, aplicando minhas habilidades para transformar informações em soluções inteligentes.
+Entusiasta em **tecnologia, dados e inovação**, aplicando minhas habilidades para transformar informações em soluções inteligentes.
 
-Meu objetivo é evoluir como **cientista e pesquisador**, explorando **inteligência artificial, automação e ciência de dados** para gerar impacto real.
+Meu objetivo é evoluir como **cientista e/ou pesquisador**, explorando **ciência de dados e automação** para gerar impacto real.
 
 ---
 
