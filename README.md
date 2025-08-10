@@ -1,4 +1,4 @@
-# ​ Kaique Rios Novais  
+[# ​ Kaique Rios Novais  
 
 **Técnico em Desenvolvimento de Sistemas** | **Estudante de Engenharia de Software** 🤓  
 
@@ -45,3 +45,4 @@ Meu objetivo é crescer como **cientista e pesquisador**, explorando **inteligê
 ---
 
 ✨ _"Transformando ideias em soluções e códigos em impacto real."_  
+](https://github.com/isaac545454)
