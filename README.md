@@ -1,8 +1,6 @@
 # 💻 Kaique Rios
 
-Olá! 👋 Me chamo **Kaique**, sou Técnico em Desenvolvimento de Sistemas e estudante de Engenharia de Software.
-
-Entusiasta em **tecnologia, dados e inovação**, aplicando minhas habilidades para transformar informações em soluções inteligentes.
+Olá! 👋 Me chamo **Kaique**, entusiasta em **tecnologia, dados e inovação**, aplicando minhas habilidades para transformar informações em soluções inteligentes.
 
 Meu objetivo é evoluir como **cientista e/ou pesquisador**, explorando **ciência de dados e automação** para gerar impacto real.
 
@@ -11,7 +9,6 @@ Meu objetivo é evoluir como **cientista e/ou pesquisador**, explorando **ciênc
 ## 📫 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiquerios/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiquerios.dev@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@kaiqueriosz/)
 
 ---
@@ -30,4 +27,4 @@ Meu objetivo é evoluir como **cientista e/ou pesquisador**, explorando **ciênc
 
 ## 📊 GitHub Status
 
-![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquerios&theme=midnight-purple&show_icons=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=kaiquerios&theme=graywhite&hide_border=true)
