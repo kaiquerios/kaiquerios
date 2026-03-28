@@ -1,19 +1,21 @@
-# 💻 Kaique Rios
+# Kaique Rios
 
-Olá! 👋 Me chamo **Kaique**, entusiasta em **tecnologia, dados e inovação**, aplicando minhas habilidades para transformar informações em soluções inteligentes.
+Olá! 👋 
+
+Me chamo **Kaique**, entusiasta em **tecnologia, dados e inovação**, aplicando minhas habilidades para transformar informações em soluções inteligentes.
 
 Meu objetivo é evoluir como **cientista e/ou pesquisador**, explorando **ciência de dados e automação** para gerar impacto real.
 
 ---
 
-## 📫 Onde me encontrar
+## Redes
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiquerios/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@kaiqueriosz/)
 
 ---
 
-## 🛠️ Linguagens e Ferramentas
+## Ferramentas em desenvolvimento
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -25,6 +27,6 @@ Meu objetivo é evoluir como **cientista e/ou pesquisador**, explorando **ciênc
 
 ---
 
-## 📊 GitHub Status
+## GitHub Status
 
-![GitHub Stats](https://streak-stats.demolab.com?user=kaiquerios&theme=graywhite&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=kaiquerios&theme=cobalt&hide_border=true)
