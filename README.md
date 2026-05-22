@@ -1,13 +1,13 @@
 # Kaique Rios
 
-### Software Engineering Student | Data • Innovation • Technology
+### Software Engineering Student | Data • Technology • Innovation
 
 ```bash
 $ whoami
 
 Kaique Rios
 Software Engineering student focused on data,
-technology innovation, automation and backend development.
+technology innovation, infrastructure and automation.
 ```
 
 ---
