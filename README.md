@@ -7,7 +7,7 @@ $ whoami
 
 Kaique Rios
 Software Engineering student focused on data,
-technology innovation, infrastructure and automation.
+technology innovation and automation.
 ```
 
 ---
