@@ -1,95 +1,76 @@
 # Kaique Rios
 
-### Software Engineering Student | Linux • Cybersecurity • Infrastructure
+### Software Engineering Student | Data • Innovation • Technology
 
 ```bash
-> whoami
+$ whoami
 
 Kaique Rios
-Software Engineering student focused on infrastructure,
-Linux environments, automation and cybersecurity studies.
+Software Engineering student focused on data,
+technology innovation, automation and backend development.
 ```
 
 ---
 
-## About Me
+# About Me
 
-Currently studying Software Engineering at UNIFACS and building practical projects involving:
+Software Engineering student at UNIFACS with a strong interest in data, business intelligence, automation and technology-driven solutions.
 
-- Linux server environments
-- Docker containers
-- Cybersecurity simulations
-- Disaster Recovery
-- Infrastructure automation
-- Python scripting
+Currently focused on developing practical skills through projects involving:
 
-Focused on continuous learning through hands-on projects and real-world simulations involving operational continuity, Linux administration and security scenarios.
+- Data analysis and visualization
+- Backend development
+- Automation with Python
+- SQL databases
+- Infrastructure environments
+- Business-oriented problem solving
+- Process optimization
 
----
-
-## Tech Stack
-
-### Infrastructure & Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![Alpine Linux](https://img.shields.io/badge/Alpine-000?style=for-the-badge&logo=alpinelinux)
+My career objective is to grow in areas related to Data Analytics, Data Engineering and Innovation, combining analytical thinking with software development and scalable technologies.
 
 ---
 
-### Languages
+# Tech Stack
+
+## Programming & Development
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 
 ---
 
-### Databases & Tools
+## Data & Databases
 
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-![SSH](https://img.shields.io/badge/SSH-000?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel)
 
 ---
 
-# Current Interests
+## Tools & Infrastructure
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+
+---
+
+# Career Interests
 
 ```text
-- Linux Administration
-- Cybersecurity
-- Docker & Containers
-- Disaster Recovery
-- Infrastructure
-- Networking
-- Python Automation
+- Data Analytics
+- Data Engineering
+- Business Intelligence
+- Technology Innovation
 - Backend Development
+- Automation
+- Infrastructure & Systems
+- Data Visualization
 ```
-
----
-
-# Certifications & Programs
-
-- Aspire Leaders Program ’26
-- Data Analytics — Ada Tech
-- Processamento e Análise de Dados — Ada Tech
-- DB Developer
-- Programa Jovem Aprendiz
-
----
-
-# Current Projects
-
-## Security & Disaster Recovery Lab
-
-Practical Linux-based environment using Alpine Linux + Docker for:
-
-- ransomware simulations
-- backup and restore
-- failover testing
-- operational continuity
-- Python automation
 
 ---
 
@@ -97,7 +78,7 @@ Practical Linux-based environment using Alpine Linux + Docker for:
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaiquerios&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
+
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquerios&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -107,11 +88,3 @@ Practical Linux-based environment using Alpine Linux + Docker for:
 
 - GitHub: https://github.com/kaiquerios
 - LinkedIn: https://www.linkedin.com/in/kaiquerios/
-
----
-
-# Philosophy
-
-```text
-Build. Break. Learn. Improve.
-```
