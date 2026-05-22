@@ -1,42 +1,35 @@
-# < Kaique Rios />
+# Kaique Rios
 
-### Software Engineering Student • Linux & Cybersecurity Enthusiast • Backend & Infrastructure
+### Software Engineering Student | Linux • Cybersecurity • Infrastructure
 
 ```bash
 > whoami
 
 Kaique Rios
-Software Engineering student focused on Linux servers,
-cybersecurity, automation and backend development.
+Software Engineering student focused on infrastructure,
+Linux environments, automation and cybersecurity studies.
 ```
 
 ---
 
 ## About Me
 
-I'm currently studying Software Engineering and building practical projects involving:
+Currently studying Software Engineering at UNIFACS and building practical projects involving:
 
-- Linux servers
-- Docker environments
+- Linux server environments
+- Docker containers
 - Cybersecurity simulations
 - Disaster Recovery
-- Python automation
-- Infrastructure and backend systems
-
-My current focus is improving my knowledge in:
-
-- Linux administration
-- Network security
 - Infrastructure automation
-- Containers and virtualization
 - Python scripting
-- Continuity and recovery systems
+
+Focused on continuous learning through hands-on projects and real-world simulations involving operational continuity, Linux administration and security scenarios.
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-## Operating Systems & Infrastructure
+### Infrastructure & Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
@@ -45,7 +38,7 @@ My current focus is improving my knowledge in:
 
 ---
 
-## Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
@@ -53,19 +46,36 @@ My current focus is improving my knowledge in:
 
 ---
 
-## Backend & Database
+### Databases & Tools
 
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![SSH](https://img.shields.io/badge/SSH-000?style=for-the-badge)
 
 ---
 
-## Cybersecurity & Networking
+# Current Interests
 
-![SSH](https://img.shields.io/badge/SSH-000?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-000?style=for-the-badge)
-![Disaster Recovery](https://img.shields.io/badge/Disaster_Recovery-000?style=for-the-badge)
+```text
+- Linux Administration
+- Cybersecurity
+- Docker & Containers
+- Disaster Recovery
+- Infrastructure
+- Networking
+- Python Automation
+- Backend Development
+```
+
+---
+
+# Certifications & Programs
+
+- Aspire Leaders Program ’26
+- Data Analytics — Ada Tech
+- Processamento e Análise de Dados — Ada Tech
+- DB Developer
+- Programa Jovem Aprendiz
 
 ---
 
@@ -73,41 +83,13 @@ My current focus is improving my knowledge in:
 
 ## Security & Disaster Recovery Lab
 
-Linux-based environment using Alpine Linux + Docker for:
+Practical Linux-based environment using Alpine Linux + Docker for:
 
-- ransomware simulation
+- ransomware simulations
 - backup and restore
-- failover scenarios
-- continuity testing
-- automation with Python
-
----
-
-## Linux Server Studies
-
-Practical studies involving:
-
-- SSH
-- Linux hardening
-- containers
-- networking
-- logs and monitoring
-- infrastructure automation
-
----
-
-# Learning Goals
-
-```text
-- Linux Administration
-- Docker & Containers
-- Cybersecurity
-- Python Automation
-- Disaster Recovery
-- Networking
-- Backend Development
-- Infrastructure
-```
+- failover testing
+- operational continuity
+- Python automation
 
 ---
 
@@ -123,12 +105,13 @@ Practical studies involving:
 
 # Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/kaiquerios)
+- GitHub: https://github.com/kaiquerios
+- LinkedIn: https://www.linkedin.com/in/kaiquerios/
 
 ---
 
 # Philosophy
 
 ```text
-"Build. Break. Learn. Improve."
+Build. Break. Learn. Improve.
 ```
