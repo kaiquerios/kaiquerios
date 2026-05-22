@@ -77,9 +77,9 @@ My career objective is to grow in areas related to Data Analytics, Data Engineer
 # GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kaiquerios&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaiquerios&theme=tokyonight" />
 
-  <img width="49%" src="https://streak-stats.demolab.com?user=kaiquerios&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaiquerios&theme=tokyonight&utcOffset=-3" />
 </p>
 ---
 
