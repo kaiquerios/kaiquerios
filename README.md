@@ -76,8 +76,9 @@ My career objective is to grow in areas related to Data Analytics, Data Engineer
 
 # GitHub Stats
 
-[![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiquerios&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kaiquerios&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+</p>
 ---
 
 # Connect With Me
