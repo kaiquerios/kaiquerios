@@ -94,6 +94,14 @@ technology innovation and process-driven solutions.
 
 # Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kaiquerios)
-[![Gmail](https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail)](mailto:kaiquerios.dev@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/kaiquerios)
+<p>
+  <a href="https://www.kaggle.com/kaiquerios">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kaiquerios.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
