@@ -24,13 +24,14 @@ technology innovation and process-driven solutions.
 
 ## Data & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres" />
+  <img src="https://icongr.am/devicon/mysql-original.svg?size=50" />
+  <img src="https://icongr.am/devicon/sqlite-original.svg?size=50" />
+  <img src="https://icongr.am/devicon/postgresql-original.svg?size=50" />
 </p>
 
-<p>
-  <img height="48" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img height="48" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
+```text
+Power BI • Excel
+```
 
 ---
 
