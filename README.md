@@ -92,10 +92,8 @@ technology innovation and process-driven solutions.
 
 ---
 
-
-```md
 # Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kaiquerios)
 [![Gmail](https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail)](mailto:kaiquerios.dev@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-111827?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/kaiquerios)
