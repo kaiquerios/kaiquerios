@@ -14,7 +14,10 @@ technology innovation and process-driven solutions.
 
 ## Programming & Development
 <p>
-  <img src="https://skillicons.dev/icons?i=python,php,javascript,nodejs" />
+  <img src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" />
+  <img src="https://icongr.am/devicon/php-original.svg?size=50&color=currentColor" />
+  <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" />
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor" />
 </p>
 
 ---
