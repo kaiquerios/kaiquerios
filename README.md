@@ -25,15 +25,21 @@ technology innovation and process-driven solutions.
 </p>
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,excel" />
+  <img height="48" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img height="48" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
 
 ## Architecture & Patterns
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=restapi,mvc,etl" />
   <img src="https://skillicons.dev/icons?i=react" title="SPA" />
+</p>
+
+<p>
+  <img height="48" src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
+  <img height="48" src="https://img.shields.io/badge/ETL-FF6B00?style=for-the-badge" />
+  <img height="48" src="https://img.shields.io/badge/MVC-6C63FF?style=for-the-badge" />
 </p>
 
 ---
@@ -41,10 +47,6 @@ technology innovation and process-driven solutions.
 ## Tools & Infrastructure
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,docker,nginx" />
-</p>
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=xampp" />
 </p>
 
 ---
@@ -80,19 +82,23 @@ technology innovation and process-driven solutions.
 # GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaiquerios&theme=radical" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaiquerios&theme=radical&utcOffset=-3" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiquerios&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquerios&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kaiquerios&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 # Connect With Me
 
-<p align="left">
-  <a href="https://www.kaggle.com/kaiquerios" target="_blank">
+<p>
+  <a href="https://www.kaggle.com/kaiquerios">
     <img src="https://skillicons.dev/icons?i=kaggle" />
   </a>
-  <a href="https://linkedin.com/in/SEU-USUARIO" target="_blank">
+  <a href="https://linkedin.com/in/SEU-USUARIO">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:kaiquerios.dev@gmail.com">
