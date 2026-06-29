@@ -14,43 +14,36 @@ technology innovation and process-driven solutions.
 
 ## Programming & Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![ETL](https://img.shields.io/badge/ETL-000000?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC-000000?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
 ## Data & Databases
-<p>
-  <img src="https://icongr.am/devicon/mysql-original.svg?size=50" />
-  <img src="https://icongr.am/devicon/sqlite-original.svg?size=50" />
-  <img src="https://icongr.am/devicon/postgresql-original.svg?size=50" />
-</p>
-
-```text
-Power BI • Excel
-```
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
 ## Architecture & Patterns
-<p>
-  <img src="https://skillicons.dev/icons?i=react" title="SPA" />
-</p>
-
-<p>
-  <img height="48" src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
-  <img height="48" src="https://img.shields.io/badge/ETL-FF6B00?style=for-the-badge" />
-  <img height="48" src="https://img.shields.io/badge/MVC-6C63FF?style=for-the-badge" />
-</p>
+![MVC](https://img.shields.io/badge/MVC-6C63FF?style=for-the-badge)
+![SPA](https://img.shields.io/badge/SPA-61DAFB?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-FF6B00?style=for-the-badge)
 
 ---
 
 ## Tools & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,nginx" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apachefriends&logoColor=white)
 
 ---
 
@@ -97,14 +90,6 @@ Power BI • Excel
 
 # Connect With Me
 
-<p>
-  <a href="https://www.kaggle.com/kaiquerios">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kaiquerios.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/kaiquerios)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_USUARIO)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiquerios.dev@gmail.com)
