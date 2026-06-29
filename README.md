@@ -13,12 +13,11 @@ technology innovation and process-driven solutions.
 # Tech Stack
 
 ## Programming & Development
-<p>
-  <img src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" />
-  <img src="https://icongr.am/devicon/php-original.svg?size=50&color=currentColor" />
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" />
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![ETL](https://img.shields.io/badge/ETL-000000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-000000?style=for-the-badge)
 
 ---
 
